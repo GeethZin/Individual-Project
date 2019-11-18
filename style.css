@@ -1,0 +1,95 @@
+body{
+	text-align:center;
+}
+
+#pagebody{
+	width:920px;
+	height:800px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:8px;
+	background-color: #4a4949;;
+}
+
+header{
+	width:880px;
+	height:40px;
+	margin:10px;
+	padding:5px;
+	border:2px solid pink;
+	background-color: #3fdcff;
+}
+
+
+.topnav{
+	width:99%;
+	background-color: gray;
+}
+
+.topnavde{
+	display: inline-block;
+	width:95px;
+	height:18px;
+	margin:5px;
+	padding:5px;
+	border:2px solid pink;
+	background-color: lightcyan;
+}
+
+.topnavde a:hover{
+	width:90px;
+	height: 22px;
+	background-color:lightpink;
+}
+
+p{
+	text-align: left;
+}
+
+.container{
+	width:880px;
+	height:600px;
+	margin:10px;
+	padding:5px;
+	border:2px solid pink;
+	background-color:gray;
+	}
+
+
+A{text-decoration:none;}
+
+
+
+footer{
+	position: absolute;
+	width:890px;
+	height:40px;
+	margin:10px;
+	border:2px solid pink;
+	background-color: gray;
+	clear: both;
+	
+	}
+
+
+#submenu{
+	width:200px;
+	height:390px;
+	margin:10px;
+	padding:10px;
+	border:2px solid pink;
+	float:left;
+	background-color:gray;	
+}
+
+A{text-decoration:none;}
+
+#content{
+	width:580px;
+	height:390px;
+	margin:10px;
+	padding:10px;
+	border:2px solid pink;
+	float:right;
+	background-color:pink;	
+}
